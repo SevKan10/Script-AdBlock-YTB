@@ -37,4 +37,4 @@ and press the button at the "Đã bật" column if it turns green it is running.
 Feel free to create issues or pull requests in this GitHub repository for suggestions, bug reports, or contributions to this script.
 
 ## License 
-Licensed under the [MIT License]()
+Licensed under the [MIT License](https://github.com/SevKan10/Script-AdBlock-YTB/blob/main/LICENSE)
