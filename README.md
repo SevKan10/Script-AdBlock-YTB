@@ -28,7 +28,7 @@ This script enhances your YouTube experience by blocking ads using **Tampermonke
 click "Bảng tổng quan"
 1. **Setting**: ![Ảnh chụp màn hình 2025-03-05 173818](https://github.com/user-attachments/assets/48f6e90d-b9f6-494e-86e5-5552a003695a) next we click icon "+" to add 
 2. **Script Installation**: In here ![Ảnh chụp màn hình 2025-03-05 174118](https://github.com/user-attachments/assets/787e82c7-1abc-4968-8471-b9ac6ced13d4)
-[Click here and press Install](https://github.com/SevKan10/Script-AdBlock-YTB/blob/main/script.js) or [Here](https://github.com/SevKan10/Script-AdBlock-YTB/blob/main/script1.js) then we click "Tệp" and choose "Lưu".
+[Click here and press Install](https://github.com/SevKan10/Script-AdBlock-YTB/blob/main/script.user.js) or [Here](https://github.com/SevKan10/Script-AdBlock-YTB/blob/main/script1.user.js) then we click "Tệp" and choose "Lưu".
 3. **Turn On Extension**: After install susseed the screen will look like this ![Ảnh chụp màn hình 2025-03-05 174346](https://github.com/user-attachments/assets/469595ba-e05f-4d8c-8afa-aa135d85a7f8)
 and press the button at the "Đã bật" column if it turns green it is running.
 4. **Browser Adblocker**: Disable your adblockers and whitelist YouTube on any extensions or third-party tools that block ads. This ensures the script functions optimally.
