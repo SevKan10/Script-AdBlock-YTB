@@ -122,7 +122,7 @@
             return;
         }
 
-        const scriptUrl = 'https://raw.githubusercontent.com/AlejandroLuisHC/yt-adblocker-script/main/script.user.js';
+        const scriptUrl = 'https://github.com/AlejandroLuisHC/yt-adblocker-script/raw/main/script.user.js';
 
         fetch(scriptUrl)
             .then(response => response.text())
